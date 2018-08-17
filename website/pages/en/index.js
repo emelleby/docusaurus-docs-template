@@ -114,6 +114,12 @@ const Features = props => (
         imageAlign: 'top',
         title: 'Feature Two',
       },
+      {
+        content: 'The content of my third feature',
+        image: imgUrl('docusaurus.svg'),
+        imageAlign: 'top',
+        title: 'Feature Three',
+      },
     ]}
   </Block>
 );
@@ -134,7 +140,7 @@ const LearnHow = props => (
         content: 'Talk about learning how to use this',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'right',
-        title: 'Learn How',
+        title: 'Learn How to',
       },
     ]}
   </Block>
