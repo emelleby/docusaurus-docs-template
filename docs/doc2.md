@@ -10,7 +10,9 @@ title: Test
 Invision URL: https://weareint.invisionapp.com/d/#/console/11462273/272949439/preview
 
 # Description
-## Setup your account 1
+
+**Setup your account 1**
+
 This is the setup wizard screen and it will show the steps that the user will go through to set up the account/workspace. To incourage users to setup as much as possible we will have some guiding on how far they have come. This will be in percent of completness regarding the recommended setup.
 
 ![Screenshot][url] Optional
@@ -21,8 +23,9 @@ This is the setup wizard screen and it will show the steps that the user will go
 
 [Charts URL]: ../../Charts/Exports/index.html
 
-<iframe src="https://realtimeboard.com/app/embed/o9J_kzAKsVw=/?moveToWidget=3074457346179286569" frameborder="0" scrolling="no" allowfullscreen></iframe>
-# Screen
+<iframe width=100% height="720px" src="https://realtimeboard.com/app/embed/o9J_kzAKsVw=/?moveToWidget=3074457346179286569" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+## Screen
 
 | Element | Type | Action | Criteria |
 | -------- | ---- | ------ | -------- |
