@@ -21,7 +21,7 @@ This is the setup wizard screen and it will show the steps that the user will go
 
 [Charts URL]: ../../Charts/Exports/index.html
 
-<iframe width="1280" height="720" src="https://realtimeboard.com/app/board/o9J_kzAKsVw=/?moveToWidget=3074457346179286569" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://realtimeboard.com/app/embed/o9J_kzAKsVw=/?moveToWidget=3074457346179286569" frameborder="0" scrolling="no" allowfullscreen></iframe>
 # Screen
 
 | Element | Type | Action | Criteria |
@@ -41,7 +41,7 @@ This is the setup wizard screen and it will show the steps that the user will go
 
 ---
 
-# BDD scenarios
+## BDD scenarios
 
 ### TEO-001-001: User lands on page first time
 | | |
