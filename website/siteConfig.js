@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
+  title: 'TEO testing' /* title for your website */,
   tagline: 'A website for testing',
   url: 'https://your-docusaurus-test-site.com' /* your website url */,
   baseUrl: '/' /* base url for your project */,
