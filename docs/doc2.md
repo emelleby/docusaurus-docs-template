@@ -3,7 +3,11 @@ id: doc2
 title: Test
 ---
 
-![Screenshot][Picture]
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FTu5EQzChVPSCFZ1T7xsC0fw6%2Fsignup%3Fnode-id%3D294%253A3081" allowfullscreen></iframe>
+
+Zeplin link: https://zpl.io/aMvPpRK
+
+[Screenshot][Picture]
 
 [Picture]: https://weareint.invisionapp.com/static-signed/live-embed/199936544/275207496/1/latest/dN37a9Zh0qyFAzoHlD2Z2z0Zr9mUl8WcKMz1ZYxI2V9lVRRlEwkE5Q804eJAac0qxblEnfcJXVd5X8P5lLUutFglE/1.1.2-2x.png
 
@@ -24,6 +28,8 @@ This is the setup wizard screen and it will show the steps that the user will go
 [Charts URL]: ../../Charts/Exports/index.html
 
 <iframe width=100% height="720px" src="https://realtimeboard.com/app/embed/o9J_kzAKsVw=/?moveToWidget=3074457346179286569" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
 
 ## Screen
 
