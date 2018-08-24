@@ -1,7 +1,7 @@
 {
   "docs": {
     "Online": ["doc1"],
-    "First Category": ["doc2"],
+    "Signup": ["folder/folder.doc1", "folder/folder.doc2"],
     "Second Category": ["doc3"]
   },
   "docs-other": {

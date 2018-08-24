@@ -1,7 +1,7 @@
 ---
 id: doc1
-title: Online
-sidebar_label: Example Page
+title: Online registration
+sidebar_label: Example page
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
