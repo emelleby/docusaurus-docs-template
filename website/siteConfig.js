@@ -83,7 +83,8 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags
-  scripts: ['https://buttons.github.io/buttons.js'],
+  scripts: ['https://buttons.github.io/buttons.js', "https://identity.netlify.com/v1/netlify-identity-widget.js"],
+
 
   /* On page navigation for the current documentation page */
   onPageNav: 'separate',
