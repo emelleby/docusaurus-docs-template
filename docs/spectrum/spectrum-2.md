@@ -2,7 +2,6 @@
 layout: docs
 id: 'spectrum-2'
 title: Spectrum 2
-date: 2018-09-05T11:26:57.597Z
 ---
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 
