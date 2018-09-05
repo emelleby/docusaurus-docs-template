@@ -4,7 +4,7 @@ backend:
 
   # This line should *not* be indented
 media_folder: "website/static/img/uploads" # Media files will be stored in the repo under website/static/img/uploads
-public_folder: "static/img" # The src attribute for uploaded media will begin with static/img/uploads
+public_folder: "static/img/uploads" # The src attribute for uploaded media will begin with static/img/uploads
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
