@@ -14,9 +14,9 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author", name: "author", widget: "string", default: "Eivind"}
-      - {label: "Author FBID", name: "authorFBID", widget: "number", default: "637365665"}
+      - {label: "Title", name: "title", widget: string}
+      - {label: "Author", name: "author", widget: string, default: "Eivind"}
+      - {label: "Author FBID", name: "authorFBID", widget: number, default: 637365665}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -28,10 +28,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
-      - {label: "Id", name: "id", widget: "hidden", default: "{{slug}}"}
-      - {label: "Author", name: "author", widget: "string", default: "Eivind"}
+      - {label: "Id", name: "id", widget: "string"}
+      - {label: "Author", name: "author", widget: "string", default: Eivind}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: "date", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "spectrum" # Used in routes, e.g., /admin/collections/blog
