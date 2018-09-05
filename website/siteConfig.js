@@ -41,7 +41,7 @@ const siteConfig = {
     {doc: 'doc1', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
     {doc: 'chargify/chargify-document', label: 'Chargify'},
-    {doc: 'spectrum/doc1', label: 'Spectrum'},
+    {doc: 'spectrum/head', label: 'Spectrum'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
