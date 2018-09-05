@@ -1,5 +1,5 @@
 ---
-id: folder.doc1
+id: doc1
 title: Folder page
 sidebar_label: Folder page
 ---

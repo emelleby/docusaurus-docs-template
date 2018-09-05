@@ -1,5 +1,5 @@
 ---
-id: folder.doc2
+id: doc2
 title: Period selection
 ---
 **Choose period to be billed**
