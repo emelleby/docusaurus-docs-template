@@ -8,7 +8,7 @@
     "First API": ["doc4", "doc5"]
   },
   "chargify": {
-    "First Chargify":["chargify/chargify-document", "chargify/doc6"]
+    "First Chargify":["chargify/chargify-document", "chargify/doc6", "chargify/without qoutes"]
   },
   "spectrum": {
     "First Spectrum":["spectrum/head"]
